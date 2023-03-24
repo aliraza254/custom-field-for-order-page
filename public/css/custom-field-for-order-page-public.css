@@ -1,0 +1,12 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+#custom_field_field .woocommerce-page .select2-container .select2-search__field, .woocommerce-page .select2-container .select2-selection{
+    padding: 0 !important;
+}
+
+#custom_field_field input.select2-search__field{
+    padding: 0 0 8px 8px !important;
+}
